@@ -1,11 +1,8 @@
 # Hi, I'm Wail Saleh 👋
 
-🎓 **BS in Computer Communications Engineering**  
-💼 **MBA in Financial Economics**  
-📊 **Data Analyst | Recently completed a Data Analysis Bootcamp**  
-
 ### 🔍 About Me
-I'm a passionate data enthusiast with a strong foundation in engineering and economics. My journey in data analysis began during my MBA, where I discovered how data can drive strategic decision-making. Recently, I completed a 7-month intensive Bootcamp in Data Analysis, sharpening my skills in Python, Data Visualization, and Statistical Analysis.
+With a foundation in engineering and finance, I bring a unique analytical perspective to data-driven projects. My journey began with solving several communication systems, then shifted towards economical analytics during my MBA. 
+Recently, I completed a 7-month Data Analysis Bootcamp, where I honed my skills in Python, data visualization, and storytelling with data. 
 
 ### 🛠️ Skills
 - **Languages**: Python, SQL
