@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Wail Saleh 👋
 
-<!--
-**WailSaleh/WailSaleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BS in Computer Communications Engineering**  
+💼 **MBA in Financial Economics**  
+📊 **Data Analyst | Recently completed a Data Analysis Bootcamp**  
 
-Here are some ideas to get you started:
+### 🔍 About Me
+I'm a passionate data enthusiast with a strong foundation in engineering and economics. My journey in data analysis began during my MBA, where I discovered how data can drive strategic decision-making. Recently, I completed a 7-month intensive Bootcamp in Data Analysis, sharpening my skills in Python, Data Visualization, and Statistical Analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Languages**: Python, SQL
+- **Data Analysis Tools**: Pandas, NumPy, Matplotlib, Seaborn
+- **Database Management**: MySQL
+- **Other**: Jupyter Notebook, Excel, Tableau
+
+### 🚀 Projects
+Explore my data analysis projects, including sales trend analysis, customer segmentation, and more. Visit my repositories for Jupyter Notebooks full of insights, visualizations, and actionable findings!
+
+### 📫 Let's Connect!
+- **LinkedIn** *(https://www.linkedin.com/in/engwaelsaleh)*
+- **Email:** *(mailto:wael.marwan.salehh@gmail.com)*
