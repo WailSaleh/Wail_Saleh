@@ -11,7 +11,9 @@ With a foundation in Engineering and Economics, I bring a unique analytical pers
 I completed a 7-month Data Analysis Bootcamp, where I honed my skills in Python, data visualization, and storytelling with data. 
 
 ### 🛠️ Skills
-- **Languages**: Python, SQL
+- **Languages**: <img src="![image](https://github.com/user-attachments/assets/c2a71f98-384f-483e-9fa1-f2bf5f25c574)
+" width="50" height="50" /> <img src="![image](https://github.com/user-attachments/assets/cc7c4854-547d-4dc5-8bf8-dfaa9f2c7169)
+" width="50" height="50" />
 - **Data Analysis Tools**: Pandas, NumPy, Matplotlib, Seaborn
 - **Database Management**: MySQL
 - **Other**: Jupyter Notebook, Excel, Tableau
