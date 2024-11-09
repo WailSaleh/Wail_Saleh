@@ -20,5 +20,6 @@ I completed a 7-month Data Analysis Bootcamp, where I honed my skills in Python,
 Explore my data analysis projects, including sales trend analysis, customer segmentation, and more. Visit my repositories for Jupyter Notebooks full of insights, visualizations, and actionable findings!
 
 ### 📫 Let's Connect!
-- **LinkedIn** *(https://www.linkedin.com/in/engwaelsaleh)*
-- **Email:** *(mailto:wael.marwan.salehh@gmail.com)*
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)]*(https://www.linkedin.com/in/engwaelsaleh)*
+- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=social&logo=discord)]*(https://discord.com/users/wael.saleh)*
+- [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=social&logo=gmail)]*(mailto:wael.marwan.salehh@gmail.com)*
