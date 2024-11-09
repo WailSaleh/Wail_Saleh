@@ -1,7 +1,9 @@
 # Hi, I'm Wail Saleh 👋
 
-📊 **Data Analyst** 
-🎓 **BS in Computer Communications Engineering** 
+📊 **Data Analyst**
+
+🎓 **BS in Computer Communications Engineering**
+
 💼 **MBA in Financial Economics**  
 
 ### 🔍 About Me
