@@ -7,7 +7,8 @@
 💼 **MBA in Financial Economics**  
 
 ### 🔍 About Me
-With a foundation in Engineering and Economics, I bring a unique analytical perspective to data-driven projects. My journey began with solving several communication systems, then transitioned to economic analysis during my MBA. 
+With a foundation in Engineering and Business, I bring a unique analytical perspective to data-driven projects. I got into data analysis to drive operational efficiency and transform data into actionable strategies. Over the last 9 years, I have leveraged my expertise to deliver measurable results, foster collaboration, and enhance organizational performance.
+
 I completed a 7-month Data Analysis Bootcamp, where I honed my skills in Python, data visualization, and storytelling with data. 
 
 ### 🛠️ Skills
