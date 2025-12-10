@@ -1,23 +1,24 @@
 # Hi, I'm Wail Saleh 👋
 
-📊 **Data Analyst**
+📊 **BUSINESS ANALYST & OPERATIONS**
 
 🎓 **BS in Computer Communications Engineering**
 
 💼 **MBA in Financial Economics**  
 
 ### 🔍 About Me
-With a foundation in Engineering and Business, I bring a unique analytical perspective to data-driven projects. I got into data analysis to drive operational efficiency and transform data into actionable strategies. Over the last 9 years, I have leveraged my expertise to deliver measurable results, foster collaboration, and enhance organizational performance.
+Blending technical expertise with operational execution, I focus on streamlining processes, improving decision-making, and supporting business growth. With a background in Engineering and Financial Economics, I apply structured analysis to diagnose problems, optimize workflows, and design scalable systems across cross-functional environments.
 
-I completed a 7-month Data Analysis Bootcamp, where I honed my skills in Python, data visualization, and storytelling with data. 
+My experience spans business analysis, operations management, workflow automation, and data-driven evaluation. I completed certified training in GHL (Expert Level), AI Automation, and a Data Analysis Bootcamp, strengthening my capabilities in automation systems, analytical workflows, and operational optimization. These skills enable me to transform complex data and processes into clear, actionable improvements that enhance efficiency and organizational performance.
 
 ### 🛠️ Skills
 - **Languages**: Python, SQL
-- **Data Analysis Tools**: Pandas, NumPy, Matplotlib, Seaborn
+- **Analysis Tools**: Pandas, NumPy, Matplotlib, Seaborn
+- **Automation & Ops** GoHighLevel, AI Automation, Zapier, Process Optimization
 - **Other**: Jupyter Notebook, Excel, Tableau
 
 ### 🚀 Projects
-Explore my data analysis projects, including sales trend analysis, customer segmentation, and more. Visit my repositories for Jupyter Notebooks full of insights, visualizations, and actionable findings!
+Project work includes sales trend analysis, customer segmentation, operational workflow evaluation, and automated reporting systems. These projects demonstrate my ability to analyze datasets, optimize processes, and build solutions that drive clarity, efficiency, and measurable results. Jupyter Notebook repositories include full analytical workflows, visualizations, and operational insights.
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engwaelsaleh)
